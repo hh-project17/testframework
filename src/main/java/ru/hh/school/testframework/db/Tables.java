@@ -1,0 +1,17 @@
+package ru.hh.school.testframework.db;
+
+/**
+ * Created by ivan on 30.04.17.
+ */
+public enum Tables {
+    CORE_TASK,
+    CORE_TESTCASE,
+    CORE_TESTCASERESULT,
+    CORE_APPLICANT,
+    CORE_APPLICANTDISCUSSION,
+    CORE_APPLICANTTASK,
+    CORE_APPLICANTTEST,
+    CORE_APPLICANTTESTQUESTION,
+    CORE_REMINDMESUBSCRIBER,
+    CORE_SCHOOLSETTINGS,
+}

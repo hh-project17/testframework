@@ -1,0 +1,10 @@
+DELETE FROM core_task;
+DELETE FROM core_testcase;
+DELETE FROM core_testcaseresult;
+DELETE FROM core_applicant;
+DELETE FROM core_applicantdiscussion;
+DELETE FROM core_applicanttask;
+DELETE FROM core_applicanttest;
+DELETE FROM core_applicanttestquestion;
+DELETE FROM core_remindmesubscriber;
+DELETE FROM core_schoolsettings;
